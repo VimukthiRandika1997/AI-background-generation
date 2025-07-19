@@ -2,6 +2,13 @@
 
 Generate backgrounds( outpainting ) given foreground product objects. This can be useful feature in e-commerce platforms.
 
+Here is set of examples where same product is seamlessly placed on different backgrounds (image as a prompt is given).
+<div>
+  <img src="assets/sample_image.png" width="1280" height="769" />
+</div>
+
+## Intro
+
 <img src="assets/1.png" width="480" height="600" />
 
 ## Business Value
